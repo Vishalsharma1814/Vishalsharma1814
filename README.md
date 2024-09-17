@@ -1,4 +1,4 @@
-An accomplished individual with 2 years of experience in full stack
+An accomplished individual with 3 years of experience in full stack
 Development.
 Skilled in Spring Boot development using Java, RESTful APIs,
 and database integration, resulting in resilient and expandable applications.
