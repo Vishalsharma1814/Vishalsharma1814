@@ -1,6 +1,6 @@
-An accomplished individual with 3 years of experience in full stack
+An accomplished individual with 4+ years of experience in full stack
 Development.
-Skilled in Spring Boot development using Java, RESTful APIs,
+Skilled in Spring Boot development using Java, RESTful APIs, Kafka, GraphQL
 and database integration, resulting in resilient and expandable applications.
 Well-versed in DevOps practices, with a specialization in Continuous
 Integration/Continuous Deployment (CI/CD), containerization, and cloud
